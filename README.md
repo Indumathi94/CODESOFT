@@ -58,8 +58,10 @@ Each project is built using core Java concepts and Object-Oriented Programming.
 ▸ OOP Concepts  
 
 👩‍💻 **Author**
+
 Indumathi P
 
 
 🎓**INTERNSHIP** 
+
 ▸ **Java Programming Internship**
