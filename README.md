@@ -5,7 +5,7 @@
 This repository contains Java console-based projects developed as part of an internship program.  
 Each project is built using core Java concepts and Object-Oriented Programming.
 
-📊 #TASK 1: STUDENT GRADE CALCULATOR
+📊#TASK 1: STUDENT GRADE CALCULATOR#
 
 📌 About the Project  
 ▸ Takes marks for multiple subjects  
