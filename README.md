@@ -5,7 +5,7 @@
 This repository contains Java console-based projects developed as part of an internship program.  
 Each project is built using core Java concepts and Object-Oriented Programming.
 
-📊 **TASK 1: STUDENT GRADE CALCULATOR**
+📊 #TASK 1: STUDENT GRADE CALCULATOR
 
 📌 About the Project  
 ▸ Takes marks for multiple subjects  
@@ -23,7 +23,7 @@ Each project is built using core Java concepts and Object-Oriented Programming.
 ▸ OOP Concepts  
 
 
-🏧 **TASK 2: ATM INTERFACE**
+🏧 #TASK 2: ATM INTERFACE
 
 📌 About the Project  
 ▸ Console-based ATM system for banking operations  
@@ -40,7 +40,7 @@ Each project is built using core Java concepts and Object-Oriented Programming.
 ▸ OOP Concepts  
 
 
-💱 **TASK 3: CURRENCY CONVERTER**
+💱 #TASK 3: CURRENCY CONVERTER
 
 📌 About the Project  
 ▸ Converts currency from one type to another  
@@ -57,11 +57,11 @@ Each project is built using core Java concepts and Object-Oriented Programming.
 ▸ API / Predefined exchange rates  
 ▸ OOP Concepts  
 
-👩‍💻 **Author**
+👩‍💻 #Author
 
 Indumathi P
 
 
-🎓**INTERNSHIP** 
+🎓#INTERNSHIP
 
 ▸ **Java Programming Internship**
